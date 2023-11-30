@@ -34,7 +34,7 @@ a,b=swap(a,b)
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![Alt text](output-1.png)
+![Alt text](output.png)
 
 
 
